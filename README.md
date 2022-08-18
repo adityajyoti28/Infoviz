@@ -1,0 +1,2 @@
+# Infoviz
+Sorting Algorithm visualizer
